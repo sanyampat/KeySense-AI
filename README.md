@@ -4,7 +4,7 @@
 > Can a machine tell *which keyboard key* was pressed just by listening to it?
 > KeySense AI records typing audio, isolates each keystroke, converts it to a spectrogram image, and classifies it into one of 26 letters (A–Z) with a classical ANN and a CNN.
 
-**Authors:** `TODO: names` · **Course / Term:** `TODO` · **Last updated:** November 2026
+**Authors:** `Sanyam` · **Course / Term:** `Btech Ds Sem 5` · **Last updated:** November 2026
 
 ---
 

@@ -331,4 +331,4 @@ Acoustic keystroke recognition is a known **side-channel attack** against typed 
 
 ## License
 
-`TODO: choose a licence (e.g. MIT) and state it here.`
+`No license yet`
